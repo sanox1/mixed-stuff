@@ -1,6 +1,6 @@
 {
   "name": "RCP Official List",
-  "logoURI": "https://rcp.helioho.st/res/logo.png", 
+  "logoURI": "https://realcryptoprofit.mooo.com/res/logo.png", 
   "keywords": [
     "rcp",
     "flare",
@@ -15,7 +15,7 @@
       "symbol": "RCP",
       "decimals": 18,
       "address": "0x3D81464A248D1DB279E0fF67815c49BDD89Fd20d",
-      "logoURI": "https://rcp.helioho.st/res/logo.png",
+      "logoURI": "https://realcryptoprofit.mooo.com/res/logo.png",
       "feePct": 0
     }
   ],
@@ -24,4 +24,5 @@
     "minor": 0,
     "patch": 0
   }
+
 }
