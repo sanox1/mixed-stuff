@@ -9,8 +9,8 @@ const ETH_FEED_ADDR = '0x5f4eC3Df9cbd43714FE2740f5E3616155c5b8419'; // Ethereum 
 const POLY_FEED_ADDR = '0xF9680D99D6C9589e2a93a78A04A279e509205945'; // Polygon Mainnet
 
 // 3. TELEGRAM CONFIG - Add your bot credentials here
-const TELEGRAM_BOT_TOKEN = '8590264017:AAHoePEIPl8ACHrcYs8RFV3VN4kGnZZSFM8'; // Get from @BotFather
-const TELEGRAM_CHAT_ID = '5608086754'; // Your chat ID
+const TELEGRAM_BOT_TOKEN = ''; // Get from @BotFather
+const TELEGRAM_CHAT_ID = ''; // Your chat ID
 const TELEGRAM_API = `https://api.telegram.org/bot${TELEGRAM_BOT_TOKEN}`;
 
 // 4. CONFIGURATION
@@ -252,3 +252,4 @@ getPrices();
 
 // Keep the script running
 setInterval(() => {}, 1000); // Prevents script from exiting
+
