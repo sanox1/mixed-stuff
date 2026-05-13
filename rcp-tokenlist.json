@@ -12,9 +12,9 @@
     {
       "chainId": 14,
       "name": "Real crypto profit",
-      "symbol": "RCP",
+      "symbol": "RCPT",
       "decimals": 18,
-      "address": "0x3D81464A248D1DB279E0fF67815c49BDD89Fd20d",
+      "address": "0x4ab1CE55CA8230d9204c999277726b09E6f22cE0",
       "logoURI": "https://realcryptoprofit.mooo.com/res/logo.png",
       "feePct": 0
     }
